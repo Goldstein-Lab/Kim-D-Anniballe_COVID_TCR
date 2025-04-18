@@ -2,9 +2,9 @@
 
 Each file is a separate Jupyter lab notebook to replicate Figure 1 components. 
 
+# Figure 1. T cell composition, clonal expansion, antigen specificity, and pathway enrichment differences between long-Covid hyposmic subjects and normosmic controls.
 ![Figure 1](images/Figure1.png)
-# Figure 1. T cell composition, clonal expansion, antigen specificity, and pathway
-# enrichment differences between long-Covid hyposmic subjects and normosmic controls.
+
 (a) T cell subset identified by scRNA-seq from biopsies, visualized by UMAP colored by subjects
 (Normosmic 1-3, COVID-hyposmic 1-3), (b) T cell cluster identities and (c) cell composition
 colored by olfactory condition. (d) UMAP projection of T cells, with color indicating the TCR’s
